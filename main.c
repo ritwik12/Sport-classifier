@@ -23,11 +23,11 @@ int main ()
         str[i] = tolower(str[i]);  
 
     char split[10][10]={0};
-    int k=0,j=0,basket=0,crick=0,foot=0,tenn=0,hock=0;
+    int k=0,j=0,basket=0,crick=0,foot=0,hock=0;
     char result[20];
     int basketball_score,cricket_score,football_score,hockey_score;
 
-    //for basketball---------------
+    //for basketball-------------
 
     char *basketball[10][10]={{"basketball","basket","court","lakers"},
           {"dribble","dribbling","three","nba"},

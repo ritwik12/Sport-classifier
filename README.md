@@ -1,6 +1,6 @@
 # Sport-classifier
 
-it is an Implementation of Pattern classification.
+It is an Implementation of Pattern classification.
 
 # What it can do?
 
